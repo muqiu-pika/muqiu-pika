@@ -22,7 +22,7 @@
       <br>
       <a href="https://github.com/muqiu-pika/Ink-Canvas-Ultra" target="_blank">🔗 GitHub</a>
       &nbsp;
-      <a href="https://qm.qq.com/q/3JXvRSABbW" target="_blank">💬 QQ群：3JXvRSABbW</a>
+      <a href="https://qm.qq.com/q/3JXvRSABbW" target="_blank">💬 QQ群：617707731</a>
     </td>
     <td align="center" width="50%">
       <b>Hycl MC启动器</b>
@@ -31,7 +31,7 @@
       <br>
       <a href="https://github.com/muqiu-pika/Hycl" target="_blank">🔗 GitHub</a>
       &nbsp;
-      <a href="https://qm.qq.com/q/Xp0I4W5GO6" target="_blank">💬 QQ群：Xp0I4W5GO6</a>
+      <a href="https://qm.qq.com/q/Xp0I4W5GO6" target="_blank">💬 QQ群：1011493009</a>
     </td>
   </tr>
 </table>
